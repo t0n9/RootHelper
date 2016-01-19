@@ -54,3 +54,6 @@ https://github.com/PenturaLabs/Linux_Exploit_Suggester
 http://www.securitysift.com/download/linuxprivchecker.py
 
 https://github.com/pentestmonkey/unix-privesc-check
+
+
+http://zone.wooyun.org/content/24990
